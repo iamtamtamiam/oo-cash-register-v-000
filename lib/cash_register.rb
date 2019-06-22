@@ -23,5 +23,5 @@ class CashRegister
       return "There is no discount to apply."
     end 
   end 
-end 
+end hb 
 
